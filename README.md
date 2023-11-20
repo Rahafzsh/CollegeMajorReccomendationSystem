@@ -1,1 +1,1 @@
-## College Major Reccomendation System
+## College Major Recommendation System
